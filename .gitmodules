@@ -1,0 +1,3 @@
+[submodule "webp_test"]
+	path = webp_test
+	url = https://github.com/bbaranoff/webp_test
